@@ -1,0 +1,10 @@
+---
+  - src: https://github.com/uttuer/elastic-role.git
+    scm: git
+    version: main
+  - src: https://github.com/uttuer/kibana-role.git
+    scm: git
+    version: main
+  - src: https://github.com/uttuer/logstash-role.git
+    scm: git
+    version: main
